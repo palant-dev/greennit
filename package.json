@@ -1,0 +1,11 @@
+{
+  "name": "greennit",
+  "version": "1.0.0",
+  "description": "A reddit like exercise for training in nodejs and exrpess",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "palant-dev",
+  "license": "MIT"
+}
